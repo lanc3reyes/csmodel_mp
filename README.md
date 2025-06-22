@@ -11,7 +11,5 @@ This dataset provides detailed environmental and mental health data collected fr
 ## Packages Need to install
     ```
     pip install seaborn
-    ```
-    ```
     pip install statsmodels
     ```
